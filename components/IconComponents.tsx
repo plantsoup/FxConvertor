@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 export const SwapIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
