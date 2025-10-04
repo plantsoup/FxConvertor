@@ -1,0 +1,5 @@
+{
+  "name": "Swop Currency Converter",
+  "description": "A web application to view and convert currency exchange rates using the Swop GraphQL API. Users can select a base currency, view a list of rates, and calculate conversions between different currencies.",
+  "requestFramePermissions": []
+}
