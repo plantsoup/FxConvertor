@@ -41,6 +41,8 @@ export const fetchLatestRates = async (): Promise<LatestRatesData> => {
 
     if (!result.data || !result.data.latest || !result.data.currencies || result.data.latest.length === 0) {
         throw new Error('Invalid or empty data structure received from API.');
+        console.log(await response.text());
+
     }
 
     // Create a map of currency codes to names for easy lookup
