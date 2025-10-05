@@ -56,8 +56,8 @@ npm install
 Create a `.env` file in the project root with the following content:
 
 ```dotenv
-VITE_API_URL=your_api_url
-VITE_API_KEY=your_api_key
+API_URL=your_api_url
+API_KEY=your_api_key
 ```
 
 Replace `your_api_url` and `your_api_key` with the values supplied by your API provider.  
