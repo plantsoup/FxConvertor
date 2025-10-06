@@ -122,6 +122,4 @@ All contributions are welcome—just follow the standard GitHub workflow.
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.  
 
----  
-
-*If anything still looks off or you need additional sections, just let me know!*
+---
